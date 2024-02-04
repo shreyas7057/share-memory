@@ -1,0 +1,14 @@
+share/post significant life events
+
+
+Labels:/INput tags:
+
+Create app for storing the memory
+
+class Memory:
+creator
+title
+message
+tags
+file/image upload
+and then post button.
